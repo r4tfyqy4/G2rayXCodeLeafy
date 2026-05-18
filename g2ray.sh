@@ -8,7 +8,7 @@ BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 GREEN='\033[1;32m'; WHITE='\033[1;37m'; RED='\033[1;31m'
 YELLOW='\033[1;33m'; DIM='\033[2m'; NC='\033[0m'; B='\033[1m'
 
-# ==================== PATHS ====================
+# ==================== PATHS =====================
 DATA_DIR="$BASE_DIR/data"
 CONFIG_FILE="$DATA_DIR/config.json"
 UUID_FILE="$DATA_DIR/uuid.txt"
