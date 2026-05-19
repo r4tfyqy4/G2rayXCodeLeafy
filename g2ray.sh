@@ -63,7 +63,7 @@ draw_logo() {
     echo -e "   ██║   ██║██╔═══╝ ██╔══██╗██╔══██║  ╚██╔╝  "
     echo -e "   ╚██████╔╝███████╗██║  ██║██║  ██║   ██║   "
     echo -e "    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ${NC}"
-    echo -e "       ${WHITE}${B}v1.4.0${NC} ${DIM}•${NC} ${WHITE}Made by CodeLeafy${NC}\n"
+    echo -e "       ${WHITE}${B}v1.4.1${NC} ${DIM}•${NC} ${WHITE}Made by CodeLeafy${NC}\n"
 }
 
 refresh_screen() {
